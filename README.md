@@ -42,7 +42,7 @@ This script checks the availability of TikTok usernames either by reading from a
 
 Here’s an example of how the script works:
 
-![Tiktok Username Checker Example](https://i.imgur.com/zzfMyZh.jpeg)
+![Tiktok Username Checker Example]([https://imgur.com/h6jZ04k])
 
 In this example, we checked 20 randomly generated usernames with 4 characters each. The script shows color-coded output:
 - **Green**: Username is available.
